@@ -10,6 +10,7 @@ const Home = () => (
     <Head>
       <title>Home</title>
     </Head>
+    <img src='/static/kappa.png' width='200' />
     <h1>Hello, It's the Home Page!</h1>
     <Link href='/users'>
       <a>Usuários</a>
